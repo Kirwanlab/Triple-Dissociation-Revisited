@@ -2,6 +2,7 @@
 Code associated with the publication: Van, J., Nielsen, S. E., &amp; Kirwan, C. B. (2022). Evidence for a single rather than a triple dissociation in the medial temporal lobe: An fMRI recognition memory replication study. Neuroimage: Reports, 2(4), 100135. https://doi.org/10.1016/j.ynirp.2022.100135
 
 Associated MRI data are available at: https://openneuro.org/datasets/ds004086
+OSF project is located (as of 11/16/26) here: https://osf.io/ctvsw 
 
 ## OVERVIEW
 
